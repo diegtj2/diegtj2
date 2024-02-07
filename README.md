@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <!--
 **diegtj2/diegtj2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
