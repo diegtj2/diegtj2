@@ -3,7 +3,7 @@
 - 📈 Finances
 - 🔥 Innovations
 
-### With 4 years of accumulated knowledge in web development, I am now prepared for a new stage in my career.
+### With 4 years of accumulated knowledge in web development, I am now prepared for a next step.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
