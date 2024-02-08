@@ -22,12 +22,6 @@
 
 ## Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/diego-janu%C3%A1rio-67276515b/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-DiegoJanuario-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  
-  <a href="mailto:dtjanuario@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-dtjanuario@gmail.com-05122A?style=flat&logo=gmail" alt="linkedin"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/diego-janu%C3%A1rio-67276515b/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-DiegoJanuario-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
