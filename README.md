@@ -6,10 +6,7 @@
 ### With 4 years of accumulated knowledge in web development, I am now prepared for a next step.
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegtj2&layout=compact&theme=vision-friendly-dark" alt="diegtj2's most languages"/>
-</p>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -25,8 +22,12 @@
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito](https://www.linkedin.com/in/diego-janu%C3%A1rio-67276515b/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-DiegoJanuario-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/diego-janu%C3%A1rio-67276515b/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-DiegoJanuario-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  
+  <a href="mailto:dtjanuario@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-dtjanuario@gmail.com-05122A?style=flat&logo=gmail" alt="linkedin"/>
+  </a>
 </p>
