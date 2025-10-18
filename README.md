@@ -3,7 +3,7 @@
 - 📈 Finances
 - 🔥 Innovations
 
-### With 4 years of accumulated knowledge in web development, I am now prepared for a next step.
+### With more than 4 years of accumulated knowledge in web development, I am now prepared for a next step.
 
 ## ⚙️ &nbsp;GitHub Analytics
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegtj2&layout=compact&theme=vision-friendly-dark" alt="diegtj2's most languages"/>
