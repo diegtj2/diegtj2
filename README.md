@@ -3,7 +3,7 @@
 - 📈 Finances
 - 🔥 Innovations
 
-### In this GitHub you will find:
+### My career path includes:
 ![greetings](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=ffffff&size=25&center=true&lines=Developing+back-end+systems.;Optimizing+SQL+databases.;Implementing+front-end+interfaces.;Venturing+into+AI+models;Over+5+years+of+experience.)
 
 ## 🛠 &nbsp;Tech Stack
