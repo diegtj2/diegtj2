@@ -5,10 +5,7 @@
 
 ### With more than 4 years of accumulated knowledge in web development, I am now prepared for a next step.
 
-https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Feel+free+to+look+around+%F0%9F%98%8C;Reach+me+out+if+you+need+me+%F0%9F%A4%97;Have+a+great+day+%F0%9F%98%8A
-
-## ⚙️ &nbsp;GitHub Analytics
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=diegtj2)
+![greetings](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Feel+free+to+look+around+%F0%9F%98%8C;Reach+me+out+if+you+need+me+%F0%9F%A4%97;Have+a+great+day+%F0%9F%98%8A)
 
 ## 🛠 &nbsp;Tech Stack
 
