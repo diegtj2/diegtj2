@@ -4,7 +4,7 @@
 - 🔥 Innovations
 
 ### My career path includes:
-![greetings](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=ffffff&size=18&center=true&lines=Many+back-end+systems;So+much+SQL+optimizing;Several+front-end+interfaces;Actually+venturing+into+AI+models;Over+5+years+of+experience)
+![greetings](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=ffffff&size=18&center=true&lines=Many+back-end+systems;So+much+SQL+optimizing;Several+front-end+interfaces;Adventures+into+AI+models;Over+5+years+of+experience)
 
 ## 🛠 &nbsp;Tech Stack
 
