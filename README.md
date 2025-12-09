@@ -5,7 +5,7 @@
 
 ### With more than 4 years of accumulated knowledge in web development, I am now prepared for a next step.
 
-![greetings](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=fffffff&size=25&center=true&lines=Developing+back-end+systems.;Optimizing+SQL+databases.;Implementing+front-end+interfaces.;Over+5+years+of+experience.)
+![greetings](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=ffffff&size=25&center=true&lines=Developing+back-end+systems.;Optimizing+SQL+databases.;Implementing+front-end+interfaces.;Over+5+years+of+experience.)
 
 ## 🛠 &nbsp;Tech Stack
 
