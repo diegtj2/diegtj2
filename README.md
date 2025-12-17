@@ -1,4 +1,4 @@
-### Hi there, I'm Diego a *developer* who loves:
+### Hi there, I'm a *developer* who loves:
 - 💻 Technology
 - 📈 Finances
 - 🔥 Innovations
