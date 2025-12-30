@@ -4,7 +4,7 @@
 - 🔥 Innovations
 
 ### My career path includes:
-![greetings](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=ffffff&size=18&center=true&lines=Many+back-end+systems;So+much+SQL+optimizing;Several+front-end+interfaces;Adventures+into+AI+models;Over+5+years+of+experience)
+![greetings](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=ffffff&size=18&lines=solid+experience+with+web+apps+and+APIs.;extensively+work+with+many+frameworks.;designing+systems+architectures.;developing+scalable+modules.;support+business+decision-making.;strong+experience+with+SQL+and+NoSQL.;cloud+deployment+on+AWS.;containerization+with+Docker+and+Kubernetes.;)
 
 ## 🛠 &nbsp;Tech Stack
 
